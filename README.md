@@ -18,6 +18,8 @@ Sms bomb tool for sri lankans
 
 ### Coded By Dave Smith (An Admin of Cyber Warriors)
 
+මේක Airtel Hutch වලට වැඩ නෑ ඉස්සරහට update දාන්නම් ඒවටත් වැඩ කරන්න.🙂
+
 <hr colour="Red" size="10">
 <h3>JOIN US :<h3/>
 <img src="400086900718_114430.jpg">
