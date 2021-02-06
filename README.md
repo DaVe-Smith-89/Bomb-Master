@@ -27,7 +27,7 @@ Sms bomb tool for sri lankans
 
 පල්ලැහා button click කරලා join වෙන්න 🖤
 
-<a href="https://chat.whatsapp.com/DWMOhdZv78RHfYpmVfjBuS"> Whatsapp </a>
+<a href="https://www.facebook.com/groups/424580708746052/?ref=share"> Facebook </a>
 
 <a href="http://t.me/By_sstp"> Telegram  </a>
 
