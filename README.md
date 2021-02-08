@@ -2,6 +2,9 @@
 
 Sms bomb tool for sri lankans
 
+## ⚙ WORKS IN TERMUX
+#
+
 ## Command list 👇
 
 >`apt update && apt upgrade -y`
@@ -10,7 +13,7 @@ Sms bomb tool for sri lankans
 
 >`pkg install python -y`
 
->`git clone https://github.com/DaVe-Smith-89/Bomb-Master`
+>`git clone https://github.com/John-kener/Bomb-Master`
 
 >`cd Bomb-Master`
 
