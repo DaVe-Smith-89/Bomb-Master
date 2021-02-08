@@ -27,7 +27,7 @@ Sms bomb tool for sri lankans
 <br>
 
 
-පල්ලැහා button click කරලා join වෙන්න 🖤
+පහලින් තියෙන button click කරලා අපිත් එක්ක join වෙන්න 🖤
 
 <a href="https://www.facebook.com/groups/424580708746052/?ref=share"> Facebook </a>
 
