@@ -16,9 +16,9 @@ Sms bomb tool for sri lankans
 
 >`python Bomb-Master.py`
 
-### Coded By Dave Smith (An Admin of Cyber Warriors)
+### Coded By Dave Smith (An Admin of Cyber Warrriors)
 
-මේක Airtel Hutch වලට වැඩ නෑ ඉස්සරහට update දාන්නම් ඒවටත් වැඩ කරන්න.🙂
+අලුත් update එක (v2.0) වලින් ඕන sim එකකට වැඩ 🙂
 
 <hr colour="Red" size="10">
 <h3>JOIN US :<h3/>
