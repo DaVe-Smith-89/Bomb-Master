@@ -8,13 +8,13 @@ Sms bomb tool for sri lankans
 
 >`pkg install git -y`
 
->`pkg install python2 -y`
+>`pkg install python -y`
 
 >`git clone https://github.com/DaVe-Smith-89/Bomb-Master`
 
 >`cd Bomb-Master`
 
->`python2 Bomb-Master.py`
+>`python Bomb-Master.py`
 
 ### Coded By Dave Smith (An Admin of Cyber Warrriors)
 
