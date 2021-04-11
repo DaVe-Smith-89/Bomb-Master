@@ -16,7 +16,7 @@ Sms bomb tool for sri lankans
 
 >`python Bomb-Master.py`
 
-### Coded By Dave Smith (Owner of Cyber Warrriors)
+### Coded By Dave Smith (Owner of SL Cyber Warrriors)
 
 අලුත් update එක (v2.0) වලින් ඕන sim එකකට වැඩ 🙂
 
