@@ -20,8 +20,6 @@ Sms bomb tool for sri lankans
 
 >`python Bomb-Master.py`
 
-අලුත් update එක (v2.0) වලින් ඕන sim එකකට වැඩ 🙂
-
 <hr colour="Red" size="10">
 <h3>JOIN US :<h3/>
 <a href="https://youtube.com/channel/UCOC4YlK-7mb5jIbCRcuijvQ"><img src="400086900718_114430.jpg"></a>
