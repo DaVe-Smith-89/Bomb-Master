@@ -2,6 +2,10 @@
 
 Sms bomb tool for sri lankans
 
+### Coded By Dave Smith (Owner of SL Cyber Warrriors)
+
+<a href="http://wa.me/94755958542"><img src="IMG_20210509_185120_415.jpg"></a>
+
 ## Command list 👇
 
 >`apt update && apt upgrade -y`
@@ -16,13 +20,11 @@ Sms bomb tool for sri lankans
 
 >`python Bomb-Master.py`
 
-### Coded By Dave Smith (Owner of SL Cyber Warrriors)
-
 අලුත් update එක (v2.0) වලින් ඕන sim එකකට වැඩ 🙂
 
 <hr colour="Red" size="10">
 <h3>JOIN US :<h3/>
-<img src="400086900718_114430.jpg">
+<a href="https://youtube.com/channel/UCOC4YlK-7mb5jIbCRcuijvQ"><img src="400086900718_114430.jpg"></a>
 
 <br>
 
