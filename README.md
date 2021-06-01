@@ -4,7 +4,7 @@ Sms bomb tool for sri lankans
 
 ### Coded By Dave Smith (Owner of SL Cyber Warrriors)
 
-<a href="http://wa.me/94755958542"><img src="IMG_20210509_185120_415.jpg"></a>
+<a href="https://github.com/DaVe-Smith-89"><img src="IMG_20210509_185120_415.jpg"></a>
 
 ## Command list 👇
 
