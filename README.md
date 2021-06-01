@@ -14,6 +14,8 @@ Sms bomb tool for sri lankans
 
 >`pkg install python -y`
 
+>`pkg install python2 -y`
+
 >`git clone https://github.com/DaVe-Smith-89/Bomb-Master`
 
 >`cd Bomb-Master`
